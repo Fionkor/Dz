@@ -1,7 +1,7 @@
 public class app {
 
      static void main(String[] args) {
-         System.out.println("This is shop-online app");
+         System.out.println("Shop-online for customers");
          orderNr1();
          System.out.println("===================");
          System.out.println("===================");
