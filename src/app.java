@@ -1,11 +1,11 @@
 public class app {
 
-     static void main(String[] args) {
-         System.out.println("Shop-online for customers");
-         orderNr1();
-         System.out.println("===================");
-         System.out.println("===================");
-         orderNr2();
+    static void main(String[] args) {
+        System.out.println("Shop-online for pokupatel");
+        orderNr1();
+        System.out.println("===================");
+        System.out.println("===================");
+        orderNr2();
 
     }
 
